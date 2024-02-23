@@ -1,0 +1,4 @@
+std_msgs/Float32MultiArray waypoints
+---
+std_msgs/Bool result
+std_msgs/String  message

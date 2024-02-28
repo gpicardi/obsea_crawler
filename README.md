@@ -3,6 +3,7 @@ Gazebo simulation and control for the benthic crawler @SARTI-UP. Adapted from ht
 
 # Start simulator
 Start the simulation --> ros2 launch my_bot launch_sim.launch.py
+
 Connect the joypad and start it with --> ros2 launch my_bot joystick.launch.py
 
 The simulated crawler currently has a lidar and a camera.
